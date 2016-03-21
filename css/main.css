@@ -17,12 +17,11 @@ html {
 }
 
 body {
-  margin: 0;
+  text-align: center;
 }
 
 img {
   width: 100%;
-  padding: .25em .25em .25em .25em;
 }
 
 img:nth-child(even) {
@@ -32,7 +31,7 @@ img:nth-child(even) {
 @media only screen and (min-width: 20em) {
 
   img {
-    text-align: center;
+
     width: 100%;
   }
 }
@@ -55,7 +54,7 @@ img:nth-child(even) {
   }
 
   img {
-    width: 30%;
+    width: 32%;
   }
 }
 
